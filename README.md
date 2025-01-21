@@ -43,13 +43,14 @@
 ### Super Admin Endpoints
 
 - GET /api/admin/users: Get All Users.
+- PUT /api/admin/users/id: Update Profile.
   
 ## Architecture:
 
 This project is based on [MVC](https://developer.mozilla.org/en-US/docs/Glossary/MVC) Architecture.
 
 ### 📂 Project Setup
--Clone the Repository:
+- Clone the Repository:
 - git clone <repository-url>
 - cd user-management-system
 #### Install Dependencies:
